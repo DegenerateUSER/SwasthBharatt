@@ -1,7 +1,6 @@
-# MedUrgencyHub- Time-Saving Solutions in Healthcare: A Curated Approach
+# Swasth Bharatt- Time-Saving Solutions in Healthcare: A Curated Approach
 
-## Deployed site(only ml models left to deploy, is there in github itself)
-https://medurgencyhub.onrender.com/
+
 
 ## Introduction
 
